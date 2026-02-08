@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Verification System</title>
+  <style>
+    /* เอา margin/padding ออก */
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    /* iframe เต็ม viewport ทั้งความกว้างและสูง */
+    iframe {
+      width: 100%;
+      height: 100vh; /* 100% ของความสูงหน้าจอ */
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe 
+    src="https://script.google.com/macros/s/AKfycbwaugIIdP1cQDyZ_w7a4L6k3eh3YU2ev984RvDkuvNK2RL-BkkNoZP0jq1q0Iui8W5xvA/exec"
+    title="Student Verification System"
+  ></iframe>
+</body>
+</html>
